@@ -1,7 +1,7 @@
 # pyssr - a Python library for spatial audio reproduction
 **pyssr** is a light Python wrapper around **SoundScape Renderer**. This is just an experimental fork of SoundScape Renderer with some Python integration code. In the future, code of the original SoundScape Renderer should be removed from this repository in favor of the git submodule.
 
-Code responsible for Python integration is in the py/ directory.
+The code for integration with Python is in the py/ directory.
 
 ## Example
 ```python
