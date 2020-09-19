@@ -35,6 +35,7 @@
 #include "apf/convolver.h"  // for apf::conv::*
 #include "apf/sndfiletools.h"  // for apf::load_sndfile
 #include "apf/combine_channels.h"  // for apf::raised_cosine_fade, ...
+#include "legacy_orientation.h" // for Orientation
 
 namespace ssr
 {
